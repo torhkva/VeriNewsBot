@@ -23,9 +23,6 @@ Aquí encontrarás todo lo necesario para entrenar, evaluar y reproducir modelos
 │   └── ada_embeddings_2.json     # Embeddings
 ├── src/
 │   └── utils.py          # Funciones auxiliares de carga y preprocesamiento
-├── outputs/
-│   ├── models/           # Modelos entrenados y serializados
-│   └── reports/          # Métricas y gráficas de resultados
 └── README.md
 ```
 
